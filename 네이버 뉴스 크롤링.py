@@ -2,7 +2,6 @@
 # Reference: https://developers.naver.com/docs/search/blog/
 
 import requests
-import pandas as pd
 
 client_id = "f7gQygMO6hqMQ1GjdcvW"
 client_secret = "LNLA1xXzPf"
