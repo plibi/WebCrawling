@@ -2,9 +2,9 @@
 
 크게 세 가지 방법
 
-1. **HTML 크롤링 후 파싱**
+1. **HTML 크롤링 후 파싱** [(로또 당첨번호 조회)](https://github.com/plibi/WebCrawling/blob/master/%EB%A1%9C%EB%98%90%20%EB%8B%B9%EC%B2%A8%EB%B2%88%ED%98%B8%20%EC%A1%B0%ED%9A%8C.py)
 2. **웹 브라우저 활용 (Selenium)**
-3. **API 활용**
+3. **API 활용** [(네이버 API를 이용한 뉴스 크롤링)](https://github.com/plibi/WebCrawling/blob/master/%EB%84%A4%EC%9D%B4%EB%B2%84%20API%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%89%B4%EC%8A%A4%20%ED%81%AC%EB%A1%A4%EB%A7%81.py)
 
 
 
